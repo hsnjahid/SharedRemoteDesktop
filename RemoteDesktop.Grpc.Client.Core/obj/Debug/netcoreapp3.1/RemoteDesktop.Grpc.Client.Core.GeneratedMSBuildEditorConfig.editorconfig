@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RemoteDesktop.Grpc.Client.Core
+build_property.ProjectDir = D:\Projects\CSharp\SharedRemoteDesktop\RemoteDesktop.Grpc.Client.Core\
